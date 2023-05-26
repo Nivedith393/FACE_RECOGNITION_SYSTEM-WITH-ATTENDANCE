@@ -1,5 +1,5 @@
 opencv-python-headless
-cmake=3.26.4
-dlib=19.24.1
-face-recognition
-face-recognition-model
+cmake
+dlib
+face_recognition
+face_recognition_model
