@@ -51,6 +51,3 @@ server.login(sender, login)
 
 Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
 
-
----
-ails.
