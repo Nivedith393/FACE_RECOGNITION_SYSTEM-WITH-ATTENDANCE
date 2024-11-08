@@ -52,10 +52,5 @@ server.login(sender, login)
 Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
 
 
-## Contact
-
-For any inquiries or further information, please contact:
-- **Prathik Boppudi** - [prathik3110@gmail.com](mailto:prathik3110@gmail.com)
-
 ---
 ails.
