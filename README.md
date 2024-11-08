@@ -1,5 +1,6 @@
 
 
+
 # Face Recognition Attendance System
 
 This project is a basic face recognition attendance system built using Python, Streamlit, OpenCV, and face_recognition. The system captures an image using a webcam, recognizes faces, and logs attendance in a CSV file.
